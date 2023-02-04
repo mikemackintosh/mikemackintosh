@@ -1,12 +1,9 @@
 <p align="center">
-  <img width="180px" src="https://github.com/mikemackintosh/mikemackintosh/raw/main/github-mikemackintosh.png">
+  <img width="256px" src="https://github.com/mikemackintosh/mikemackintosh/raw/main/gpatch.png" alt="Mike Mackintosh, mikentosh, mike mackintosh, mikemackintosh">
 </p>
 
-### I'm Mike Mackintosh!
+### I am [`Mikentosh`](https://mikento.sh)
 
-# A Builder at Heart
-We live in a time where humans have taught monkeys to speak, dogs to perform CPR and rocks to think for themselves. It takes some really crazy creativity and bravey to do that!
-
-I love going against the grain to figure out how to solve problems when someone else says "it's not possible" or "it can't be done!" It's not about proving others wrong, it's about proving to myself that humans are the only thing limiting themselves. 
+I am a Security Engineering Manager with 20 years of field experience with a special focus on Corporate Security and Incident Response. I spend most of my time Team Building and Automating. 
 
 Find me on [Medium/@mikemackintosh](https://medium.com/@mikemackintosh)!
